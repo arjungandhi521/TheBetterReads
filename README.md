@@ -7,5 +7,5 @@ The app storyboard can be seen here: https://github.com/arjungandhi521/TheBetter
 Built with Xcode and programmed in Swift.
 
 # Credits 
-Thank you to Berkeley Preparatory School for the resources to create this app and Jamie Farkas and Chase Smith for the guidance and help in designing and programming the project!
+Thank you to Berkeley Preparatory School for the resources to create this app and Jamie Farkas and Chase Smith for the guidance and help in designing and programming the project.
 
