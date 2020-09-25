@@ -4,7 +4,7 @@ This project is an iOS app that allows its user to store books they are interest
 The app storyboard can be seen here: https://github.com/arjungandhi521/TheBetterReads/blob/master/Storyboard.png.
 
 # Technology Used
-Built with Xcode and programmed in Swift.
+Built with Xcode and programmed in Swift. Graphics developed using Adobe Illustrator.
 
 # Credits 
 Thank you to Berkeley Preparatory School for the resources to create this app and Jamie Farkas and Chase Smith for the guidance and help in designing and programming the project.
